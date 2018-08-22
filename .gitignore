@@ -3,6 +3,7 @@
 *.log
 tmp/
 .*.aux
+.coqdeps.d
 *.a
 *.cma
 *.cmi
